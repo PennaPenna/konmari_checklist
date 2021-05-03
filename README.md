@@ -1,15 +1,15 @@
 KONMARI CHECKLIST
 
-Simple React Native application to help organizing with KonMari method. 
+Simple React Native application to help organizing with KonMari method. \
 Includes checklists of each five KonMari categories and shows progress of each using pie diagrams.
 
 DEPENDENCIES:
-    "@expo-google-fonts/montez": "^0.1.0",
-    "@expo-google-fonts/pompiere": "^0.1.0",
-    "@react-native-async-storage/async-storage": "^1.13.0",
-    "@react-navigation/drawer": "^5.12.5",
-    "@react-navigation/native": "^5.9.4",
-    "d3": "6.3.0",
+    "@expo-google-fonts/montez": "^0.1.0", \
+    "@expo-google-fonts/pompiere": "^0.1.0", \
+    "@react-native-async-storage/async-storage": "^1.13.0", \
+    "@react-navigation/drawer": "^5.12.5", \
+    "@react-navigation/native": "^5.9.4", \
+    "d3": "6.3.0", 
     "expo": "^41.0.0",
     "expo-app-loading": "^1.0.1",
     "expo-font": "~9.1.0",
