@@ -1,0 +1,19 @@
+{
+  "name": "konmari_checklist_app_v01",
+  "displayName": "konmari_checklist_app_v01",
+  "expo": {
+    "name": "konmari_checklist",
+    "slug": "konmari_checklist",
+    "version": "1.0.1",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "Simple React Native application to help organizing with KonMari method. Includes checklists of each five KonMari categories and shows progress of each using pie diagrams."
+  }
+}
